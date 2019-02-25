@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="https://alibaba.github.io/ice">
     <img alt="ICE" src="https://gw.alicdn.com/tfs/TB1FEW2nfDH8KJjy1XcXXcpdXXa-487-132.svg" width="200">
@@ -101,3 +102,7 @@ $ npm run build  // 构建 dist
 ## 相关文档
 
 - [ICE Design Pro 使用文档](https://github.com/alibaba/ice/wiki#ice-design-pro-%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3)
+=======
+# FirstReact
+第一个ReactJs项目
+>>>>>>> 258af64752fdd225e5180cc8246ad622f65fe822
